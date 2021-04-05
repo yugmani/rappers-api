@@ -1,0 +1,30 @@
+.container {
+  margin: 0 auto;
+  width: 60%;
+  text-align: center;
+  background-color: lightgray;
+  padding: 15px;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: Blue;
+}
+
+.birth-name,
+.stage-name {
+  color: antiquewhite;
+}
+
+input,
+button {
+  border: none;
+  line-height: 1.5;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+input:focus,
+button:focus {
+  outline: none;
+}
